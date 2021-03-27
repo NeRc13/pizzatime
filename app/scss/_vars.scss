@@ -1,0 +1,11 @@
+// $color-text: #546e7a;
+$orange: #ffa650;
+$text: #9f9f9f;
+// $bg: #263238;
+// $grey: #f4f6f5;
+
+@mixin Roboto {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    // font-size: 16px;
+}
